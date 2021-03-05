@@ -80,9 +80,6 @@ GRLIB_arsenal_weapons = [
 GRLIB_arsenal_magazines = [
     "BWA3_10Rnd_127x99_G82_AP_Tracer",                              // G82 12.7x99mm 10Rnd Mag (AP Tracer)
     "BWA3_10Rnd_127x99_G82_AP",                                     // G82 12.7x99mm 10Rnd Mag (AP)
-    "BWA3_10Rnd_127x99_G82_Raufoss_Tracer_Dim",                     // G82 12.7x99mm Mk211 10Rnd Mag (Raufoss IR-DIM)
-    "BWA3_10Rnd_127x99_G82_Raufoss_Tracer",                         // G82 12.7x99mm Mk211 10Rnd Mag (Raufoss Tracer)
-    "BWA3_10Rnd_127x99_G82_Raufoss",                                // G82 12.7x99mm Mk211 10Rnd Mag (Raufoss)
     "BWA3_10Rnd_127x99_G82_SD",                                     // G82 12.7x99mm 10Rnd Mag (SD)
     "BWA3_10Rnd_127x99_G82_Tracer_Dim",                             // G82 12.7x99mm 10Rnd Mag (IR-DIM)
     "BWA3_10Rnd_127x99_G82_Tracer",                                 // G82 12.7x99mm 10Rnd Mag (Tracer)
@@ -151,6 +148,14 @@ GRLIB_arsenal_magazines = [
     "Chemlight_green",                                              // Chemlight (Green)
     "Chemlight_red",                                                // Chemlight (Red)
     "Chemlight_yellow",                                             // Chemlight (Yellow)
+	"BWA3_DM51A1", // GRANATE
+	"BWA3_DM25", // GRANATE
+	"BWA3_DM32_Blue", // GRANATE
+	"BWA3_DM32_Green", // GRANATE
+	"BWA3_DM32_Orange", // GRANATE
+	"BWA3_DM32_Purple", // GRANATE
+	"BWA3_DM32_Red", // GRANATE
+	"BWA3_DM32_Yellow", // GRANATE
     "ClaymoreDirectionalMine_Remote_Mag",                           // Claymore Charge
     "DemoCharge_Remote_Mag",                                        // Explosive Charge
     "Drone_Range_Mag_dummy",                                        // AT Mine
@@ -300,7 +305,6 @@ GRLIB_arsenal_items = [
     "BWA3_optic_EOTech552_tan",                                     // EOTech 552 (Tan)
     "BWA3_optic_EOTech552",                                         // EOTech 552
     "BWA3_optic_Hensoldt",                                          // 6-24x72 Hensoldt
-    "BWA3_optic_IRV600",                                            // IRV 600
     "BWA3_optic_M5Xi_MSR_MicroT2",                                  // 5-25x56 M5Xi Military (MSR, MicroT2)
     "BWA3_optic_M5Xi_MSR",                                          // 5-25x56 M5Xi Military (MSR)
     "BWA3_optic_M5Xi_Tremor3_MicroT2",                              // 5-25x56 M5Xi Military (Tremor 3, MicroT2)

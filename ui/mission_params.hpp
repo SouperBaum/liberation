@@ -369,7 +369,7 @@ class Params {
         title = $STR_WHITELIST_PARAM;
         values[] = {1, 0};
         texts[] = {$STR_WHITELIST_ENABLED, $STR_PARAMS_DISABLED};
-        default = 1;
+        default = 0;
     };
     class ServerRestart {
         title = $STR_RESTART_PARAM;

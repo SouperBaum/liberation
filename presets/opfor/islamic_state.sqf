@@ -71,6 +71,8 @@ opfor_vehicles = [
     "LOP_ISTS_OPF_BMP2",                                                // BMP-2
     "LOP_ISTS_OPF_BTR60",                                               // BTR-60PB
     "LOP_ISTS_OPF_T34",                                                 // T-34-85M
+	"LOP_ISTS_OPF_IGLA_AA_POD",
+	"LOP_ISTS_OPF_STATIC_ZU23",
     "LOP_ISTS_OPF_T55",                                                 // T55A
     "LOP_ISTS_OPF_T55",                                                 // T55A
     "LOP_ISTS_OPF_T72BA",                                               // T72B
@@ -83,6 +85,9 @@ opfor_vehicles_low_intensity = [
     "LOP_ISTS_OPF_Nissan_PKM",                                          // Nissan (PKM)
     "LOP_ISTS_OPF_Nissan_PKM",                                          // Nissan (PKM)
     "LOP_ISTS_OPF_Nissan_PKM",                                          // Nissan (PKM)
+	"LOP_ISTS_OPF_IGLA_AA_POD",
+	"LOP_ISTS_OPF_M113_W",
+	"LOP_ISTS_OPF_STATIC_ZU23",
     "LOP_ISTS_OPF_BMP1",                                                // BMP-1
     "LOP_ISTS_OPF_BMP1",                                                // BMP-1
     "LOP_ISTS_OPF_BMP2",                                                // BMP-2
@@ -99,6 +104,7 @@ opfor_battlegroup_vehicles = [
     "LOP_ISTS_OPF_Truck",                                               // Truck (Cargo)
     "LOP_ISTS_OPF_Truck",                                               // Truck (Cargo)
     "LOP_ISTS_OPF_BMP2",                                                // BMP-2
+	"LOP_ISTS_OPF_M113_W",
     "LOP_ISTS_OPF_BTR60",                                               // BTR-60PB
     "LOP_ISTS_OPF_T34",                                                 // T-34-85M
     "LOP_ISTS_OPF_T55",                                                 // T55A

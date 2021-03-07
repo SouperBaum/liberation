@@ -74,8 +74,6 @@ opfor_vehicles = [
     "LOP_ISTS_OPF_T55",                                                 // T55A
     "LOP_ISTS_OPF_T55",                                                 // T55A
     "LOP_ISTS_OPF_T72BA",                                               // T72B
-    "LOP_ISTS_OPF_T72BA",                                               // T72B
-    "LOP_ISTS_OPF_ZSU234",                                              // ZSU-23-4V
     "LOP_ISTS_OPF_ZSU234"                                               // ZSU-23-4V
 ];
 
@@ -106,13 +104,8 @@ opfor_battlegroup_vehicles = [
     "LOP_ISTS_OPF_T55",                                                 // T55A
     "LOP_ISTS_OPF_T55",                                                 // T55A
     "LOP_ISTS_OPF_T72BA",                                               // T72B
-    "LOP_ISTS_OPF_T72BA",                                               // T72B
     "LOP_ISTS_OPF_ZSU234",                                              // ZSU-23-4V
-    "LOP_ISTS_OPF_ZSU234",                                              // ZSU-23-4V
-    "LOP_TKA_Mi8MT_Cargo",                                              // Mi-8MT (Cargo)
-    "LOP_TKA_Mi24V_AT",                                                 // Mi-24V (AT)
-    "LOP_TKA_Mi24V_FAB",                                                // Mi-24V (FAB)
-    "LOP_TKA_Mi24V_UPK23"                                               // Mi-24V (UPK)
+    "LOP_TKA_Mi8MT_Cargo"                                              // Mi-8MT (Cargo)
 ];
 
 // All enemy vehicles that can spawn as battlegroups, either assaulting or as reinforcements, at lower enemy combat readiness (aggression levels).
@@ -129,10 +122,7 @@ opfor_battlegroup_vehicles_low_intensity = [
     "LOP_ISTS_OPF_BTR60",                                               // BTR-60PB
     "LOP_ISTS_OPF_T34",                                                 // T-34-85M
     "LOP_ISTS_OPF_ZSU234",                                              // ZSU-23-4V
-    "LOP_TKA_Mi8MT_Cargo",                                              // Mi-8MT (Cargo)
-    "LOP_TKA_Mi24V_AT",                                                 // Mi-24V (AT)
-    "LOP_TKA_Mi24V_FAB",                                                // Mi-24V (FAB)
-    "LOP_TKA_Mi24V_UPK23"                                               // Mi-24V (UPK)
+    "LOP_TKA_Mi8MT_Cargo"                                               // Mi-8MT (Cargo)
 ];
 
 /* All vehicles that spawn within battlegroups (see the above 2 arrays) and also hold 8 soldiers as passengers.
@@ -146,15 +136,7 @@ opfor_troup_transports = [
 ];
 
 // Enemy rotary-wings that will need to spawn in flight.
-opfor_choppers = [
-    "LOP_TKA_Mi8MT_Cargo",                                              // Mi-8MT (Cargo)
-    "LOP_TKA_Mi24V_AT",                                                 // Mi-24V (AT)
-    "LOP_TKA_Mi24V_FAB",                                                // Mi-24V (FAB)
-    "LOP_TKA_Mi24V_UPK23"                                               // Mi-24V (UPK)
-];
+opfor_choppers = [];
 
 // Enemy fixed-wings that will need to spawn in the air.
-opfor_air = [
-    "RHS_Su25SM_vvsc",                                                  // Su-25
-    "RHS_Su25SM_KH29_vvsc"                                              // Su-25 (KH29)
-];
+opfor_air = [];

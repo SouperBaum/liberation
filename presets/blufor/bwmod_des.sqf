@@ -73,26 +73,26 @@ infantry_units = [
 
 light_vehicles = [
     ["B_Quadbike_01_F",20,0,10],                                        // Quad Bike
-    ["BWA3_Eagle_Tropen",80,0,30],                                      // Eagle IV
-    ["BWA3_Eagle_FLW100_Tropen",80,30,30],                              // Eagle IV (FLW 100)
-    ["rhsusf_M1230a1_usarmy_wd",120,0,30],                              // M1230A1 (MEDEVAC)
-	["rhsusf_M1083A1P2_D_open_fmtv_usarmy",125,0,75],                   // M1083A1P2 Transport
-    ["rhsusf_M1083A1P2_D_fmtv_usarmy",125,0,75],                        // M1083A1P2 Transport (Covered)
-	["BWA3_Dingo2_FLW200_GMW_CG13_Tropen",120,60,40],                   // Dingo MK19
-	["BWA3_Dingo2_FLW100_MG3_CG13_Tropen",120,30,40],                   // Dingo MG3
-	["BWA3_Dingo2_FLW200_M2_CG13_Tropen",120,40,40]                     // Dingo M2
+    ["BWA3_Eagle_Tropen",200,0,150],                                      // Eagle IV
+    ["BWA3_Eagle_FLW100_Tropen",200,100,150],                              // Eagle IV (FLW 100)
+    ["rhsusf_M1230a1_usarmy_wd",150,0,75],                              // M1230A1 (MEDEVAC)
+	["rhsusf_M1083A1P2_D_open_fmtv_usarmy",100,0,75],                   // M1083A1P2 Transport
+    ["rhsusf_M1083A1P2_D_fmtv_usarmy",100,0,75],                        // M1083A1P2 Transport (Covered)
+	["BWA3_Dingo2_FLW200_GMW_CG13_Tropen",250,200,200],                   // Dingo MK19
+	["BWA3_Dingo2_FLW100_MG3_CG13_Tropen",250,100,200],                   // Dingo MG3
+	["BWA3_Dingo2_FLW200_M2_CG13_Tropen",250,150,200]                     // Dingo M2
 ];
 
 heavy_vehicles = [
-    ["BWA3_Puma_Tropen",220,150,150],                                   // IFV Puma
-    ["BWA3_Leopard2_Tropen",300,300,250],                               // MBT Leopard 2A6M
-    ["rhsusf_m109d_usarmy",200,300,100]                                // M109A6
+    ["BWA3_Puma_Tropen",400,300,300],                                   // IFV Puma
+    ["BWA3_Leopard2_Tropen",700,500,400],                               // MBT Leopard 2A6M
+    ["rhsusf_m109d_usarmy",250,350,150]                                // M109A6
 ];
 
 air_vehicles = [
     ["B_UAV_01_F",0,0,0],                                               // AR-2 Darter
-    ["BWA3_Tiger_RMK_Heavy",600,750,250],                               // UH Tiger RMK HEAVY
-    ["RHS_A10",500,600,400]                                           // A-10A (CAS)
+    ["BWA3_Tiger_RMK_Heavy",1000,800,700],                               // UH Tiger RMK HEAVY
+    ["RHS_A10",900,700,700]                                           // A-10A (CAS)
 ];
 
 static_vehicles = [
@@ -101,8 +101,8 @@ static_vehicles = [
     ["RHS_MK19_TriPod_D",0,0,0],                                      // Mk19 GMG 20mm
     ["RHS_TOW_TriPod_D",0,0,0],                                      // TOW (AT)
     ["RHS_Stinger_AA_pod_D",0,0,0],                                  // Stinger (AA)
-    ["BWA3_MRS120_Fleck",0,0,0],                                            // Mk6 Mortar
-    ["RHS_M119_D",0,0,0],                                           // M119A2
+    ["BWA3_MRS120_Fleck",100,100,0],                                            // Mk6 Mortar
+    ["RHS_M119_D",200,150,0],                                           // M119A2
     ["B_SAM_System_03_F",0,0,0]                                     // MIM-145 Defender
 ];
 
